@@ -26,7 +26,7 @@ def main():
                     vector_store = get_vector_store(text_chunks)
                     st.session_state.conversation = get_conversation_chain(vector_store)
                     st.session_state.chat_history = []  # reset history for new PDFs
-                st.success("PDF files processed successfully!")
+                st.success("PDF files processed s")
 
     st.divider()
 
