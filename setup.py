@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='GENERATIVE AI PROJECT',
+    name='generative-ai-pdf-chatbot',
     version='0.1.0',
     author='Sasi Chappidi',
     author_email= "csasi099@gmail.com", 
